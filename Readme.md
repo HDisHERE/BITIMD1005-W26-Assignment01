@@ -1,10 +1,10 @@
-# Exercise 01 - HTML Fundamentals
+# Assignment 2
 
-Welcome to exercise 01 - this exercise covers HTML syntax, document structure, semantic elements, tables, and forms.
+This is an example of portfolio website for Alex Morgan.
 
-## Objective
+## What's in the box?
 
-Your task is to take the plain text content in `index.html` and wrap it with the appropriate HTML tags to create a properly structured webpage.
+There is a landing page, a project library and one of the detailed project page.
 
 ## Steps
 
